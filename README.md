@@ -7,3 +7,7 @@
 ## [2. Predicting Loan Default Risk Using Decision Tree Classification on Synthetic Financial Data](https://github.com/HelloJacob11/Data-Analysis/blob/main/Loan.ipynb)
 - Dataset: [Loan Default Prediction](https://www.kaggle.com/datasets/kmldas/loan-default-prediction)
 ### This project utilizes a synthetic financial dataset derived from real-world patterns to build a binary classification model predicting loan default risk. Using a decision tree algorithm, the model analyzes features such as employment status, bank balance, and annual salary to determine the likelihood of default, offering insights into key financial risk factors.
+
+## [3. Conducting Customer Clustering of an Airline Company Using K-means](https://github.com/HelloJacob11/Data-Analysis/blob/main/Customer_Segmentation.ipynb)
+- Dataset: [Customer Segmentation](https://www.kaggle.com/competitions/sa-customer-segmentation/data)
+- ### This project aims to extract the optimal customer clustering method from an airline company's dataset to help the company efficiently strategize operational and promotional plans.
